@@ -7,7 +7,7 @@
 ### 😎 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science on part time bases at the University of the People.\
+🎓 &nbsp;I'm currently studying: Applied Computer Technology (software engineering)  at the United States International University-Africa .\
 ✍️ &nbsp;In my free time, I pursue Graphic Design UI/UX and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at kirokodev@gmail.com! I'll try to respond as soon as I can.\
