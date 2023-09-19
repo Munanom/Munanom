@@ -1,4 +1,4 @@
-![muna](https://github.com/Samkiroko/Nextacore_website/assets/43377799/932a00ec-ca8c-4945-8430-8f5f90340906)
+![muna](https://github.com/Munanom/PersonalPortfolio.github.io/assets/68506117/134468c4-a3b6-4467-aacd-168541ae7f32)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Muna ! </h2>
 
@@ -58,7 +58,7 @@ Java         1 min           ░░░░░░░░░░░░░░░░░
 ### 🤝🏻 &nbsp;Connect with Me !
 
 <p align="justify">
-<a href="https://www.linkedin.com/in/muna-numan-495a37219/"><img src="https://img.shields.io/badge/-Samuel%20Kiroko%20Njenga-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:munanuman55@gmail.com"><img src="https://img.shields.io/badge/-kirokodev@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/NumanMuna"><img src="https://img.shields.io/badge/-@Samkiroko-4391DA?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muna-numan-495a37219/"><img src="https://img.shields.io/badge/-Muna%20Numan%20said-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:munanuman55@gmail.com"><img src="https://img.shields.io/badge/-munanuman55@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://twitter.com/NumanMuna"><img src="https://img.shields.io/badge/-@NumanMuna?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
