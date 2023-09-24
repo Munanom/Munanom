@@ -1,5 +1,3 @@
-![muna](https://github.com/Munanom/PersonalPortfolio.github.io/assets/68506117/134468c4-a3b6-4467-aacd-168541ae7f32)
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Muna ! </h2>
 
 ### 😎 &nbsp;About Me
