@@ -6,7 +6,6 @@
 🎓 &nbsp;I'm currently studying: Applied Computer Technology (software engineering)  at the United States International University-Africa .\
 ✍️ &nbsp;In my free time, I pursue Quantum Computing .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can send me an email at munanuman55@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](file:///Users/muna/Downloads/MunaSaidCVpdf.pdf) for more details about me.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Samkiroko/Samkiroko/master/assets/Night-Coding.gif" align="right"/>
