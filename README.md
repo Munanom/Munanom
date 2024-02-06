@@ -10,17 +10,6 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/Samkiroko/Samkiroko/master/assets/Night-Coding.gif" align="right"/>
 
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-
-```text
-python        23 hrs 9 mins   ███████████████████████▒░   93.68 %
-JavaScript   1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-HTML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-```
-
 <!--END_SECTION:waka-->
 
 ### 🛠 &nbsp;Tech Stack
