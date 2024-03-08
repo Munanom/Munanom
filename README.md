@@ -6,9 +6,7 @@
 🎓 &nbsp;I'm currently studying: Applied Computer Technology (software engineering)  at the United States International University-Africa .\
 ✍️ &nbsp;In my free time, I pursue Quantum Computing .\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-📄 &nbsp;Please have a look at my [Résumé](file:///Users/muna/Downloads/MunaSaidCVpdf.pdf) for more details about me.
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/Samkiroko/Samkiroko/master/assets/Night-Coding.gif" align="right"/>
+<!-- 📄 &nbsp;Please have a look at my [Résumé](file:///Users/muna/Downloads/MunaSaidCVpdf.pdf) for more details about me.-->
 
 <!--END_SECTION:waka-->
 
@@ -35,8 +33,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="justify" display="inline">
-<a href="https://github.com/Samkiroko">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Samkiroko&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/Munanom">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Samkiroko&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
