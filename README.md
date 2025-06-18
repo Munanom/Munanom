@@ -1,7 +1,7 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Muna ! </h2>
 
 🎓 &nbsp;
-**United States International University Africa** (Sept 2021 – Dec 2024)  
+**United States International University Africa**   
     Undergraduate, Computer Science  
     GPA 3.75/4.0
 
