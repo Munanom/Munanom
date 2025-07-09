@@ -3,7 +3,7 @@
 🎓 &nbsp;
 **United States International University Africa**   
     Undergraduate, Computer Science  
-    GPA 3.75/4.0
+    
 
 💡  Exploring Quantum technologies
 
@@ -26,7 +26,6 @@
 
  **📫 Connect with Me !**  
 - LinkedIn:(https://www.linkedin.com/in/muna-numan/)
-- Email: munanuman55@gmail.com
 
 💬 &nbsp;Feel free to reach out to me for collaboration and volunteering, or just for some interesting discussion.
 <p align="justify">
