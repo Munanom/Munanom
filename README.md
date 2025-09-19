@@ -1,6 +1,9 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there!  I'm Muna ! </h2>
 
 🎓 &nbsp;
+**University Of Oxford** 
+    MSc, Quantum Technologies
+
 **United States International University Africa**   
     Undergraduate, Computer Science  
     
